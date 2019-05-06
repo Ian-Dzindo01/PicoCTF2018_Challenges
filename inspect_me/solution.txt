@@ -1,0 +1,1 @@
+The solution is to use Ctrl + U to inspect the code of the website, and by opening the HTML, CSS and JS files you will eventually get the flag, from multiple pieces.

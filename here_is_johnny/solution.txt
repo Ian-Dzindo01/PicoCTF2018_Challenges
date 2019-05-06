@@ -1,0 +1,2 @@
+First get the data into a right format for john the ripper. Do that by using unshadow passwd shadow > pico_user.txt.
+Then call john pico_user.txt, and you should get the password for the root.

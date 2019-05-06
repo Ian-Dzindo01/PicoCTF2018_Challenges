@@ -1,0 +1,1 @@
+The extension is wrong, you have to change it to jpg, because the image is in jpg format.

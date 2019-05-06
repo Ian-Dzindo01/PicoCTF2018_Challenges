@@ -1,0 +1,3 @@
+foremost is used to recover files using headers, footers and data structures through a process called file carving. It can be used as a data recovery tool.
+
+run foremost animals.dd, then you will get a bunch of animal images of which one is the flag you are looking for.

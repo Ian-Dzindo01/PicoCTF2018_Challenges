@@ -1,0 +1,1 @@
+The key here is to fist login. Then you open up a cookie editor see the different cookies. Your username and passwords cookies should be in there, but there should also be an admin cookie which is set to false. Change that to true and you should see the flag written out.

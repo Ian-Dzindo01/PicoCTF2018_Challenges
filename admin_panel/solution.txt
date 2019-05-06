@@ -1,0 +1,1 @@
+You can use wireshark to analyze the different packets that are provided. In one of the POST requests to the login page, you can find the username and the password. Also because the communication is unencrypted, you can use strings to view all the packet information and retrieve the flag by using grep.

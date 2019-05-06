@@ -1,0 +1,1 @@
+Use zsteg husky.png to decode the husky image. You can also use an online stego decoder.

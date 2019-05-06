@@ -1,0 +1,1 @@
+Ctrl + U to see the source of the web page, and from there you can find out the flag easily. It's written out in pieces.
