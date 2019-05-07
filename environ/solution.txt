@@ -1,0 +1,1 @@
+Go to the shell server. Use printenv | grep 'picoCTF' to find the flag on the shell server.

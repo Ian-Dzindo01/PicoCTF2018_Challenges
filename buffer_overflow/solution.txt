@@ -1,0 +1,1 @@
+Go to the shell on PicoCTF. Run vuln with a bunch of letters as an argument. That way, the buffer will overflow, triggering a segmentation fault, which runs the segmentation handler, which in turn prints out the flag.
